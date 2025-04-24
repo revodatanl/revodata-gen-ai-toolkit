@@ -4,6 +4,22 @@
 
 The RevoData Generative AI Toolkit is designed to accelerate the development of generative AI applications within the Databricks ecosystem by providing example architectures and modular components.
 
+## Table of Contents
+
+- [1. Introduction](#1-introduction)
+- [2. Prerequisites](#2-prerequisites)
+- [3. Architectures](#3-architectures)
+  - [3.1 Retrieval Augmented Generation (RAG)](#31-retrieval-augmented-generation-rag)
+  - [3.2 Agents (upcoming)](#32-agents-upcoming)
+- [4. Components](#4-components)
+  - [4.1 Embeddings](#41-embeddings)
+  - [4.2 Rerankers](#42-rerankers)
+  - [4.3 Large Language Models](#43-large-language-models)
+- [5. Modularizing Generative AI Applications](#5-modularizing-generative-ai-applications)
+- [6. Roadmap](#6-roadmap)
+- [7. Contact Information](#7-contact-information)
+
+
 ## 1. Introduction
 
 Building Generative AI applications requires careful consideration of architectures and technical approaches. As an engineer, you'll need to make several key design decisions:
