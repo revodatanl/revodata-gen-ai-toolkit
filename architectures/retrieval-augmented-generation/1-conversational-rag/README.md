@@ -2,7 +2,7 @@
 
 In this module, we will implement a conversational RAG chatbot. At the end, you will be able to use this in the Databricks Playground.
 
-https://github.com/user-attachments/assets/45087950-a6f7-4344-850e-554bd37096c5
+https://github.com/user-attachments/assets/be039611-d06a-4c6c-be93-44644932fe1e
 
 ## Why 'Conversational' Matters in Generative AI Applications
 
