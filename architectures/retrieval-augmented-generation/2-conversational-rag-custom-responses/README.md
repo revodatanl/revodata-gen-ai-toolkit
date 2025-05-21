@@ -2,7 +2,7 @@
 
 In this module, we will expand on the [Conversational RAG Chatbot](../1-conversational-rag). We are going to skip over many of the details discussed there already, so we recommend starting going through that code first if you have not read it yet. The main difference is that with this version we will not only provide an answer, but also stream the tool calls and results, providing the user more context of what the AI is doing. At the end of this module, we will be able to use this updated model in the Databricks Playground.
 
-https://github.com/user-attachments/assets/4249b454-684b-46f8-b32c-9a3ae2693d0c
+https://github.com/user-attachments/assets/14e01cca-60a7-4bc1-a808-47c9cf83aee3
 
 ## The Architecture of a Conversational RAG Chatbot with Custom Responses on Databricks
 
