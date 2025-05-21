@@ -13,7 +13,7 @@ RAG consists of three key steps:
 
 For our demonstrations, we use *Delta Lake: The Definitive Guide* as our knowledge base, enabling our chatbot to answer questions about Delta Lake. As you can see in the video below, the Llama 3.3 model does not really know what a Delta Lake is; at least not in our conext. RAG addresses this by incorporating domain knowledge from the book into the model.
 
-https://github.com/user-attachments/assets/267c1e99-93b6-43f7-85af-62ce6784f247
+
 
 Before implementing any RAG chatbot, we must first create a Vector Index in which we store the book. The setup scripts for creating the Vector Index in Databricks can be found in [`modules/0-creating-the-vector-store`](modules/0-creating-the-vector-store/README.md).
 
